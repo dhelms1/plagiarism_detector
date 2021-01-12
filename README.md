@@ -1,6 +1,6 @@
 # Plagiarism Project
 
-<img src="/img/header.pjpg" width="400">
+<img src="/img/header.jpg" width="400">
 
 ---
 
